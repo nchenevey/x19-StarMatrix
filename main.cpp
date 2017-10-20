@@ -10,7 +10,7 @@ int main()
      int rowsInput;
      int colsInput;
 
-     cout<<"Enter rows and columns of stars: "<<endl;
+     cout<<"Enter rows and columns of stars:"<<endl;
      cin>>rowsInput;
      cin>>colsInput;
      if(rowsInput > 0 && colsInput > 0)
